@@ -1,76 +1,91 @@
 # Green Orbit Digital
 
-**Sustainable Strategies, Stellar Results**
+**Sustainable Strategies, Stellar Results**  
 **Where Sustainability Meets Innovation — for Earth and Beyond**
 
-At Green Orbit Digital, we’re passionate about harnessing the power of innovation to drive sustainability on Earth and beyond. Whether you’re a business using space technology to tackle global challenges or striving to embed sustainability into your operations, we’re here to support your journey.
+At Green Orbit Digital, we’re on a mission to harness the power of innovation to drive sustainability across industries — on Earth and in orbit. Whether you're a space startup, sustainability-led enterprise, or forward-thinking organisation, we help you amplify impact through eco-conscious marketing.
 
-We specialise in integrating eco-conscious strategies into innovative campaigns that help organisations align with sustainability goals, tackle global challenges, and drive meaningful change. From smart cities to space-tech, maritime to environmental innovation, our marketing simplifies complexity and elevates your mission.
+We specialise in integrating sustainability-first strategies into compelling digital campaigns that communicate complex space-enabled solutions with clarity, purpose, and measurable results.
 
 ---
 
 ## What We Do
 
-* **Sustainability & Space-Tech Marketing** – Build credibility and trust in future-forward industries.
-* **Brand Positioning & Strategy** – Define your voice and lead in sustainability innovation.
-* **Data-Driven Digital Campaigns** – Maximise engagement with impactful, insight-led marketing.
-* **Thought Leadership & Content** – Shape conversations and inspire responsible innovation.
+- **Sustainability & Space-Tech Marketing**  
+  Build trust and leadership in future-focused industries through green-aligned storytelling.
+  
+- **Brand Positioning & Strategy**  
+  Define your voice, align with ESG goals, and lead in sustainability innovation.
+
+- **Data-Driven Digital Campaigns**  
+  Execute high-impact, insight-led campaigns that deliver measurable engagement.
+
+- **Thought Leadership & Content**  
+  Inspire responsible innovation and shape industry conversations.
 
 ---
 
 ## Our Mission & Vision
 
-We empower forward-thinking businesses with transformative marketing strategies that deliver measurable outcomes and drive sustainable progress. Our mission is to make space-enabled technologies accessible, relatable, and impactful for organisations solving real-world challenges.
+Green Orbit empowers space and sustainability-focused organisations to scale with purpose.  
+Our mission is to make advanced space technologies accessible and impactful, helping solve critical Earth-based challenges through responsible marketing.
 
-We envision a world where space technologies help combat climate change, reduce resource scarcity, and promote environmental justice. Through creative expertise and data-led campaigns, we position our clients as industry leaders with purpose.
+Our vision is a future where the space sector leads environmental transformation — reducing emissions, advancing social equity, and creating measurable sustainability gains on a global scale.
 
 ---
 
 ## Our Approach
 
-Every space organisation has unique goals. We offer customised, sustainability-first solutions designed to:
+Every organisation is unique. That’s why we tailor each strategy to your mission, combining sustainability intelligence, industry expertise, and storytelling that resonates.
 
-* Engage stakeholders with authentic, ethical marketing
-* Promote the adoption of innovative space technologies
-* Highlight environmental benefits across sectors
+We:
+- Engage stakeholders through ethical communication  
+- Advocate for the benefits of space-enabled innovation  
+- Align your mission with global sustainability goals  
 
-We believe in the transformative power of space — not just to explore the cosmos, but to create lasting, positive change here on Earth.
+We believe space is not only a frontier — it’s a force for good.
 
 ---
 
 ## Sectors We Support
 
-* **Space Startups & Agencies**
-* **Smart Cities & Urban Sustainability**
-* **Maritime & Environmental Innovation**
+- **Space Startups & Agencies**  
+- **Smart Cities & Urban Sustainability**  
+- **Maritime & Environmental Innovation**
 
-By bridging the gap between technical expertise and creative communication, we drive impact across industries using satellite data, digital strategy, and responsible storytelling.
+By bridging the gap between engineering and engagement, we simplify complex technologies and drive adoption across diverse markets.
 
 ---
 
 ## Why Work With Us?
 
-* **Sustainability at the Core** – Every strategy is eco-conscious by design.
-* **Deep Industry Knowledge** – Decades of experience in space and digital marketing.
-* **Insight-Driven Results** – We prioritise outcomes that move the needle.
+- **Sustainability at the Core**  
+  Every project prioritises planet-positive impact.
+
+- **Deep Industry Knowledge**  
+  Chartered marketers with decades in space, tech, and digital.
+
+- **Outcome-Driven Strategy**  
+  We focus on what works — and what moves the needle.
 
 ---
 
 ## Our Green Promise
 
-We measure success by the positive change we help create — for our clients, communities, and the planet. As verified members of [The Green Web Foundation](https://www.thegreenwebfoundation.org/), we operate on green hosting and actively reduce our digital footprint.
+We’re committed to making marketing cleaner and more conscious.  
+As verified members of [The Green Web Foundation](https://www.thegreenwebfoundation.org/), we run on green hosting and actively reduce digital emissions across our work.
 
-> “Marketing for a better future in space and on Earth.”
+> "Marketing for a better future — in space and on Earth."
 
 ---
 
 ## Let’s Connect
 
-[Company website](https://greenorbit.space)
-[**LinkedIn**](https://linkedin.com/company/greenorbitdigital)
-[**Green Orbit Academy**](https://academy.greenorbit.space)
-[**GitHub**](https://github.com/greenorbitspace)
+- [greenorbit.space](https://greenorbit.space)  
+- [LinkedIn](https://linkedin.com/company/greenorbitdigital)  
+- [Green Orbit Academy](https://academy.greenorbit.space)  
+- [GitHub](https://github.com/greenorbitspace)
 
 ---
 
-*Proudly partnered with visionary organisations across the space industry, smart cities, and environmental sectors.*
+*Proudly collaborating with visionary organisations across space, urban innovation, and climate technology.*
