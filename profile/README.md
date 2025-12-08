@@ -25,3 +25,11 @@ Space is entering a new era—crowded, commercial, and politically complex. Clea
 ### 📡 Connect
 
 Let’s tell the story of a more sustainable and accessible space future.
+
+## Impact Orbit Group  
+Green Orbit Space Communications and PR is part of the **Impact Orbit Creative Group**, a collective advancing responsible communication, digital sustainability, training, and inclusion in the space sector.
+
+### Explore Our Sister Organisations
+- **Impact Orbit Creative Group** → https://github.com/impactorbitco
+- **Green Orbit Digital** → https://github.com/greenorbitdigital 
+- **Green Orbit Academy** → https://github.com/greenorbitacademy  
